@@ -23,4 +23,3 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-theme: jekyll-theme-cayman
